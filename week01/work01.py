@@ -23,7 +23,6 @@ headers = {
     'accept-language': "zh-CN,zh;q=0.9",
     'cache-control': "no-cache",
     'connection': "keep-alive",
-    # 'cookie': "uuid_n_v=v1; uuid=02090D40E53011EA9E4093FE69325283A220E0EC5A5E4904ACD4C517AEF3BA81; _csrf=c58d7bd5b0989e94ad29bf2aa80799abd68c9520fc14ad325832759d68ff1cda; Hm_lvt_703e94591e87be68cc8da0da7cbd0be2=1598180504; _lxsdk_cuid=1741afb32e8c8-06fcd80171c8e8-31647305-1fa400-1741afb32e9c8; _lxsdk=02090D40E53011EA9E4093FE69325283A220E0EC5A5E4904ACD4C517AEF3BA81; mojo-uuid=f2919df793e4ab4b6fb14eb4f146641a; mojo-session-id={\"id\":\"004f1c571680c022108b067563c3b036\",\"time\":1598180504806}; mojo-trace-id=2; Hm_lpvt_703e94591e87be68cc8da0da7cbd0be2=1598180507; __mta=119878455.1598180504451.1598180504451.1598180506644.2; _lxsdk_s=1741afb32e9-db3-272-1ee%7C%7C4",
     'host': "maoyan.com",
     'sec-fetch-dest': "document",
     'sec-fetch-mode': "navigate",
