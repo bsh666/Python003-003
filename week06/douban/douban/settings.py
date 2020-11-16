@@ -77,11 +77,9 @@ WSGI_APPLICATION = 'douban.wsgi.application'
 DATABASES = {
     "default": {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'jingle',
-        # 'NAME': 'test',
+        'NAME': 'test',
         'USER': 'root',
-        # 'PASSWORD': 'root123',
-        'PASSWORD': 'bsh890530',
+        'PASSWORD': 'root123',
         'HOST': 'localhost',
         'PORT': '3306',
     }
